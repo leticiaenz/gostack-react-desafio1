@@ -43,7 +43,7 @@ npm start
 
 ```
 
-## Interfaces
+## Interface
 
 
 ![Interface](https://github.com/leticiaenz/gostack-react-desafio1/blob/master/interface.gif)
