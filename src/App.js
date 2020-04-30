@@ -14,7 +14,7 @@ function App() {
 
   async function handleAddRepository() {
     const response = await api.post("repositories", {
-      title: "Desafio2",
+      title: "Fazer desafio Conceitos React-Native",
       url: "https://github.com/leticiaenz/gostack-node-desafio1",
       techs: ["node", "react"],
     });
